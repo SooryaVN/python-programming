@@ -1,0 +1,5 @@
+a=list(map(int,input().split()))
+sum=0
+for i in range(0,k):
+  sum=sum+a[i]
+print(sum)
