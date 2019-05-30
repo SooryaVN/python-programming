@@ -1,5 +1,6 @@
-a=list(map(int,input().split()))
-sum=0
-for i in range(0,k):
-  sum=sum+a[i]
-print(sum)
+n,k=list(map(int,input().split()))
+m=list(map(int,input().split()))
+s=0
+for i in range (k):
+    s=s+m[i]
+print(s)
