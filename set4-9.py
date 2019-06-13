@@ -1,2 +1,2 @@
-number=list(map(int,input().split()))
-print(max(number))
+yupt=list(map(int,input().split()))
+print(max(yupt))
