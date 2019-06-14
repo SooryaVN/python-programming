@@ -1,3 +1,3 @@
 import math
-m=int(input())
-print(math.factorial(m))
+yup=int(input())
+print(math.factorial(yup))
