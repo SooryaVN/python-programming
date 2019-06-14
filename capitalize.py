@@ -1,4 +1,4 @@
 f,g=map(str,input().split())
-f.capitalize()
+f.capitalize(),end=' '
 g.capitalize()
 print(f,g)
